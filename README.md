@@ -1,2 +1,2 @@
 # NBA-Stats---CurrentScores
-Grabbing 
+Grabbing Basketball(NBA) Data,ScoreBoard & more information from API using Python
